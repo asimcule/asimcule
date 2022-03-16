@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning AI/ML
-- - 😄 Pronouns: he/him
+- 🌱 I’m currently learning AI
+
 <!--
 - 🔭 I’m currently working on ...
 
