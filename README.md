@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-- 🌱 I’m currently learning AI
-
 <!--
 - 🔭 I’m currently working on ...
 
